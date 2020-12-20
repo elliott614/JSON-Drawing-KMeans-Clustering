@@ -1,0 +1,8 @@
+Chose parachute for image.
+
+Code will only run if NUMBER_OF_PICTURES is set to a number lower than the number of pictures in the .ndjson file
+(1000 is much, much less than the number in each one)
+
+Data files required: full_simplified_parachute.ndjson
+Programming file required: Cluster.java
+outputs: output.txt, mean_1.txt, mean_2.txt
